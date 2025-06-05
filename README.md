@@ -7,8 +7,19 @@ This is the **React frontend** for the AI vs Human Text Classification project. 
 
 > 🛑 **Note**: Backend API is not live, so predictions will not work in the current hosted version. This frontend is deployed to showcase the user interface only.
 
-## 📊 Model Performance (from Colab)
+## 🔍 Explore the Model (Google Colab)
 
+You can view and test the model in this interactive Colab notebook:
+
+👉 [View on Google Colab](https://colab.research.google.com/drive/12vQL7jP2LtDJbvLzjy8qhvmHUmzxTDlh?usp=sharing)
+
+It includes:
+- Data preprocessing
+- BERT model training
+- Sample predictions
+- Classification metrics
+
+## 📊 Model Performance (from Colab)
 - **Accuracy**: 0.99  
 - **Precision**: 1.00  
 - **Recall**: 0.99  
